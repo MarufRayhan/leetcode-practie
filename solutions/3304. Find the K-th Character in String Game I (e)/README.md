@@ -4,7 +4,7 @@
 
 ## Problem Description
 
-´´´Alice and Bob are playing a game. Initially, Alice has a string word = "a".
+```Alice and Bob are playing a game. Initially, Alice has a string word = "a".
 
 You are given a positive integer k.
 
@@ -32,4 +32,4 @@ Example 2:
 Input: k = 10
 
 Output: "c"
-´´´
+```
